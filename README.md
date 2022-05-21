@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ZackeryToth
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
--   Laravel 9
--   NodeJS
--   Inertia
--   Vuejs
+        -   Laravel 9
+        -   NodeJS
+        -   Inertia
+        -   Vuejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
